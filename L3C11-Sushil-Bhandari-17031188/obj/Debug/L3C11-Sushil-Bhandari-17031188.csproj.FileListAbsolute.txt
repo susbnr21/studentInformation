@@ -1,0 +1,36 @@
+C:\Users\Rijan\source\repos\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11-Sushil-Bhandari-17031188.csprojAssemblyReference.cache
+C:\Users\Rijan\source\repos\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11_Sushil_Bhandari_17031188.StudentsForm.resources
+C:\Users\Rijan\source\repos\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11_Sushil_Bhandari_17031188.Properties.Resources.resources
+C:\Users\Rijan\source\repos\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11-Sushil-Bhandari-17031188.csproj.GenerateResource.cache
+C:\Users\Rijan\source\repos\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\bin\Debug\L3C11-Sushil-Bhandari-17031188.exe.config
+C:\Users\Rijan\source\repos\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\bin\Debug\L3C11-Sushil-Bhandari-17031188.exe
+C:\Users\Rijan\source\repos\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\bin\Debug\L3C11-Sushil-Bhandari-17031188.pdb
+C:\Users\Rijan\source\repos\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rijan\source\repos\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rijan\source\repos\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11-Sushil-Bhandari-17031188.csproj.CopyComplete
+C:\Users\Rijan\source\repos\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11-Sushil-Bhandari-17031188.exe
+C:\Users\Rijan\source\repos\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11-Sushil-Bhandari-17031188.pdb
+C:\Users\Rijan\Downloads\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11-Sushil-Bhandari-17031188.csprojAssemblyReference.cache
+C:\Users\Rijan\Downloads\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11_Sushil_Bhandari_17031188.StudentsForm.resources
+C:\Users\Rijan\Downloads\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11_Sushil_Bhandari_17031188.Properties.Resources.resources
+C:\Users\Rijan\Downloads\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11-Sushil-Bhandari-17031188.csproj.GenerateResource.cache
+C:\Users\Rijan\Downloads\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11-Sushil-Bhandari-17031188.exe
+C:\Users\Rijan\Downloads\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11-Sushil-Bhandari-17031188.pdb
+C:\Users\Rijan\Downloads\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\bin\Debug\L3C11-Sushil-Bhandari-17031188.exe.config
+C:\Users\Rijan\Downloads\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\bin\Debug\L3C11-Sushil-Bhandari-17031188.exe
+C:\Users\Rijan\Downloads\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\bin\Debug\L3C11-Sushil-Bhandari-17031188.pdb
+C:\Users\Rijan\Downloads\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rijan\Downloads\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rijan\Downloads\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11-Sushil-Bhandari-17031188.csproj.CopyComplete
+C:\Users\Rijan\Desktop\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\bin\Debug\L3C11-Sushil-Bhandari-17031188.exe.config
+C:\Users\Rijan\Desktop\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\bin\Debug\L3C11-Sushil-Bhandari-17031188.exe
+C:\Users\Rijan\Desktop\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\bin\Debug\L3C11-Sushil-Bhandari-17031188.pdb
+C:\Users\Rijan\Desktop\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rijan\Desktop\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rijan\Desktop\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11-Sushil-Bhandari-17031188.csprojAssemblyReference.cache
+C:\Users\Rijan\Desktop\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11_Sushil_Bhandari_17031188.StudentsForm.resources
+C:\Users\Rijan\Desktop\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11_Sushil_Bhandari_17031188.Properties.Resources.resources
+C:\Users\Rijan\Desktop\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11-Sushil-Bhandari-17031188.csproj.GenerateResource.cache
+C:\Users\Rijan\Desktop\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11-Sushil-Bhandari-17031188.csproj.CopyComplete
+C:\Users\Rijan\Desktop\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11-Sushil-Bhandari-17031188.exe
+C:\Users\Rijan\Desktop\2019-20-A-CS6004NA-A1-CW-Individual-Work-17031188-Sushi-Bhandari (Initial)\Development\L3C11-Sushil-Bhandari-17031188\L3C11-Sushil-Bhandari-17031188\obj\Debug\L3C11-Sushil-Bhandari-17031188.pdb
