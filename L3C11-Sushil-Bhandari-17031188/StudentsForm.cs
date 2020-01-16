@@ -74,8 +74,8 @@ namespace L3C11_Sushil_Bhandari_17031188
             addressTxt.Text = "";
             contactTxt.Text = "";
             emailTxt.Text = "";
-            CBprogramme.SelectedItem = null;
-            CBgender.SelectedItem = null;
+            CBprogramme.SelectedItem = "Male";
+            CBgender.SelectedItem = "Computing";
             DPdob.Value = DateTime.Today;
             DPregister.Value = DateTime.Today;
         }
